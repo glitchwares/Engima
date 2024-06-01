@@ -178,7 +178,7 @@
     "PRIMARY_800": "#332748",
     "PRIMARY_900": "#3B03A1",
     "RED_400": "#4C19A9",
-    "YELLOW_260": "#4E00D0D9"
+    "YELLOW_260": "#000080F2"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#151619"
