@@ -23,12 +23,12 @@
       "rgba(0, 0, 0, 0.98)"
     ],
     "BACKGROUND_MENTIONED": [
-      "#814FD9",
-      "#814FD9"
+      "#814FD9CC",
+      "#814FD9CC"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
-      "#6727D8",
-      "#6727D8"
+      "#6727D87D",
+      "#6727D87D"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#171717",
