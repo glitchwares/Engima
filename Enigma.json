@@ -1,6 +1,7 @@
 {
   "name": "Enigma",
   "version": "",
+  "spec": 2,
   "description": "Desirable Purple Theme",
   "color": "#7C82FF",
   "authors": [
@@ -9,8 +10,8 @@
       "id": "628840840160083978"
     }
   ],
-  "background": {
-  "rgba": "transparent"
+       "plus": {
+       "version": 0
   },
   "semanticColors": {
     "BACKGROUND_ACCENT": [
@@ -109,7 +110,7 @@
       "#FFFFFF"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
-      "#FFFF00",
+      "#00FF00",
       "#FFFFFF"
     ],
     "BG_SURFACE_RAISED": [
@@ -180,6 +181,30 @@
       "#00FFFF",
       "#FF0000"
     ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#8942FF"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#7C82FF"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#8942FF"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#000000"
+    ],
+    "ROLE_DEFAULT": [
+      "#00FFFF"
+    ],
     "SCROLLBAR_AUTO_THUMB": [
       "#292929",
       "#D6D6D6"
@@ -219,6 +244,9 @@
     "TEXT_WARNING": [
       "#FFFF00",
       "#FF0000"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#00FFFF"
     ]
   },
   "rawColors": {
@@ -380,12 +408,16 @@
     "LINK_LOW_SATURATION_860": "#FF0000",
     "LINK_LOW_SATURATION_900": "#FF0000",
     "PLUM_1": "#000000",
+    "PLUM_2": "#00FFFF",
     "PLUM_3": "#8E7CFF",
+    "PLUM_4": "#8942FF",
     "PLUM_6": "#FFFFFF",
     "PLUM_9": "#FFFFFF",
     "PLUM_10": "#5539CC",
     "PLUM_11": "#000000",
     "PLUM_13": "#8E7CFF",
+    "PLUM_15": "#8E7CFF",
+    "PLUM_16": "#00FFFF",
     "PLUM_17": "#000000",
     "PLUM_18": "#000000",
     "PLUM_19": "#000000",
