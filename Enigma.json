@@ -27,7 +27,7 @@
       "rgba(0, 0, 0, 0.98)"
     ],
     "BACKGROUND_MENTIONED": [
-      "#4E00D0D9",
+      "#7C82FF",
       "#4E00D0D9"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
@@ -110,7 +110,7 @@
       "#FFFFFF"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
-      "#00FF00",
+      "#17171799",
       "#FFFFFF"
     ],
     "BG_SURFACE_RAISED": [
@@ -411,8 +411,8 @@
     "PLUM_2": "#00FFFF",
     "PLUM_3": "#8E7CFF",
     "PLUM_4": "#8942FF",
-    "PLUM_6": "#FFFFFF",
-    "PLUM_9": "#FFFFFF",
+    "PLUM_6": "#8942FF",
+    "PLUM_9": "#7C82FF",
     "PLUM_10": "#5539CC",
     "PLUM_11": "#000000",
     "PLUM_13": "#8E7CFF",
@@ -421,8 +421,8 @@
     "PLUM_17": "#000000",
     "PLUM_18": "#000000",
     "PLUM_19": "#000000",
-    "PLUM_20": "#5539CC",
-    "PLUM_22": "#FFFFFF",
+    "PLUM_20": "#171717",
+    "PLUM_22": "#7C82FF",
     "PRIMARY": "#8E7CFF",
     "PRIMARY_100": "#8314FF",
     "PRIMARY_130": "#8942FF",
